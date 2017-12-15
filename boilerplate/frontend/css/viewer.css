@@ -13,9 +13,9 @@ or in the "license" file accompanying this file. This file is distributed on an 
   Set CSS specific to the extension viewer view in this file.
 
 */
-
 body {
 	font: 12px arial, sans-serif;
+	background-color: #FFFFFFAA;
 }
 div {
 	margin: 0px;
