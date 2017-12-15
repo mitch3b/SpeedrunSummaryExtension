@@ -1,4 +1,5 @@
 # extensions-samples
-This repository contains samples illustrating how to create Twitch Extensions, as well as the Extensions Boilerplate.
+This repository contains use ttps://github.com/twitchdev/extensions-samples as a template and ported over the speedrun summary javascript code from https://github.com/mitch3b/SpeedRunSummary
 
-1. [Boilerplate](https://github.com/TwitchDev/extensions-samples/tree/master/boilerplate) -  A simple starting point to create, develop, and test your Extension.
+This is a twitch extension for displaying a summary of speedrun.com pbs. 
+
